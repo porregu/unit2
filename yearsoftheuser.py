@@ -1,0 +1,6 @@
+name=input("what's your name ?")
+print(" that's a cool name")
+years=float(input("how old are you?"))
+old=(75-years)
+print(old)
+later=input("you will turn 75 in this many years ")
